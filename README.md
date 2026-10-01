@@ -1,5 +1,6 @@
 # 🎮 Circle Rush
 
+[![Play on itch.io](https://img.shields.io/badge/▶_PLAY-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://tortikghst.itch.io/circle-rush)
 ![Unity](https://img.shields.io/badge/Unity-6-black?logo=unity&style=for-the-badge)
 ![C%23](https://img.shields.io/badge/C%23-12-purple?logo=csharp&style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
@@ -9,6 +10,10 @@
   <b>2D Bullet Heaven на Unity</b><br>
   <i>От простолюдина из Circle — до мести королю Square</i>
 </h3>
+
+<p align="center">
+  <b>▶️ <a href="https://tortikghst.itch.io/circle-rush">Играть в браузере на itch.io</a></b>
+</p>
 
 ---
 
@@ -93,7 +98,7 @@
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/tortikghst/circle-rush.git
+git clone https://github.com/tortikghst/CirclRush.git
 
 # Открой через Unity Hub → Add Project
 # Выбери сцену: Assets/Scenes/main.unity
@@ -102,9 +107,7 @@ git clone https://github.com/tortikghst/circle-rush.git
 text
 File → Build Settings → Build (Ctrl+B)
 📦 Скачать игру
-<p align="center"> <a href="https://tortikghst.itch.io/circle-rush"> <img src="https://img.shields.io/badge/ITCH.IO-Играть-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /> </a> </p>
-🚧 Страница itch.io скоро появится
-
+<p align="center"> <a href="https://tortikghst.itch.io/circle-rush"> <img src="https://img.shields.io/badge/🎮_Играть_в_браузере-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on itch.io" /> </a> </p><p align="center"> <b>▶️ <a href="https://tortikghst.itch.io/circle-rush">tortikghst.itch.io/circle-rush</a></b><br> <i>Игра доступна прямо в браузере — установка не требуется. Unity WebGL.</i> </p>
 📄 Лицензия
 Проект распространяется по лицензии MIT. Подробности — в файле LICENSE.
 
@@ -114,5 +117,4 @@ File → Build Settings → Build (Ctrl+B)
 🔊 Звуки	Freesound.org	CC0
 🔤 Шрифт	Press Start 2P	SIL Open Font License
 👤 Автор
-<table align="center"> <tr> <td align="center"> <a href="https://github.com/tortikghst"> <img src="https://github.com/tortikghst.png" width="100px;" alt="tortikghst"/><br> <sub><b>tortikghst</b></sub> </a> </td> </tr> </table><p align="center"> <a href="https://github.com/tortikghst"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://tortikghst.itch.io"> <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /> </a> </p>
-<p align="center"> <i>⭐ Если проект понравился — поставь звезду на GitHub!</i><br> <i>🎮 Хочешь поиграть? Загляни на itch.io!</i> </p> ```
+<table align="center"> <tr> <td align="center"> <a href="https://github.com/tortikghst"> <img src="https://github.com/tortikghst.png" width="100px;" alt="tortikghst"/><br> <sub><b>tortikghst</b></sub> </a> </td> </tr> </table><p align="center"> <a href="https://github.com/tortikghst"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://tortikghst.itch.io"> <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /> </a> </p><p align="center"> <i>⭐ Если проект понравился — поставь звезду на GitHub!</i><br> <i>🎮 Хочешь поиграть? Загляни на <a href="https://tortikghst.itch.io/circle-rush">itch.io</a>!</i> </p> ```
