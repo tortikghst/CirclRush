@@ -1,10 +1,10 @@
 # 🎮 Circle Rush
 
 [![Play on itch.io](https://img.shields.io/badge/▶_PLAY-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://tortikghst.itch.io/circle-rush)
-![Unity](https://img.shields.io/badge/Unity-6-black?logo=unity&style=for-the-badge)
-![C%23](https://img.shields.io/badge/C%23-12-purple?logo=csharp&style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Made by](https://img.shields.io/badge/made%20by-tortikghst-orange?style=for-the-badge)
+[![Unity](https://img.shields.io/badge/Unity-6-black?logo=unity&style=for-the-badge)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-12-purple?logo=csharp&style=for-the-badge)](https://learn.microsoft.com/dotnet/csharp/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Made by](https://img.shields.io/badge/made%20by-tortikghst-orange?style=for-the-badge)](https://github.com/tortikghst)
 
 <h3 align="center">
   <b>2D Bullet Heaven на Unity</b><br>
