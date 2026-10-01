@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0750549b2094054aa9ac94b93357108, type: 3}
+  m_Name: wave
+  m_EditorClassIdentifier: 
+  skillName: "\u041A\u0440\u0443\u0433\u043E\u0432\u0430\u044F \u0432\u043E\u043B\u043D\u0430"
+  cardIcon: {fileID: 8705723804367169409, guid: 2a62eaa59c0363b43ade4225cbfc0c05,
+    type: 3}
+  slotIcon: {fileID: -2767394706760042034, guid: 2a62eaa59c0363b43ade4225cbfc0c05,
+    type: 3}
+  description: "\u0423\u0434\u0430\u0440\u043D\u0430\u044F \u0432\u043E\u043B\u043D\u0430.\n\u0420\u0430\u0437
+    \u0432 7 \u0441\u0435\u043A\u0443\u043D\u0434 \u0441\u043E\u0437\u0434\u0430\u0451\u0442
+    \u0443\u0434\u0430\u0440\u043D\u0443\u044E \u0432\u043E\u043B\u043D\u0443 \u043A\u043E\u0442\u043E\u0440\u0430\u044F
+    \u043E\u0442\u0442\u0430\u043B\u043A\u0438\u0432\u0430\u0435\u0442 \u0438 \u0437\u0430\u043C\u0435\u0434\u043B\u044F\u0435\u0442
+    \u0432\u0441\u0435\u0445 \u0432\u0440\u0430\u0433\u043E\u0432."
+  baseCooldown: 12
+  baseDamage: 7
+  baseCount: 1
+  baseSearchRadius: 5
+  baseEffectRadius: 5
+  requiresTarget: 0
+  skillType: 0
+  skillPrefab: {fileID: 8658489374812774373, guid: 3781f4865f7ebee46a31716225dbcb78,
+    type: 3}
+  upgrades:
+  - damageAdd: 3
+    cooldownReduce: -1
+    countAdd: 0
+    searchRadiusAdd: 0
+    effectRadiusAdd: 0
+    upgradeDescription: "\u0423\u0440\u043E\u043D +3, \u043F\u0435\u0440\u0435\u0437\u0430\u0440\u044F\u0434\u043A\u0430
+      -1\u0441"
+  - damageAdd: 3
+    cooldownReduce: 0
+    countAdd: 0
+    searchRadiusAdd: 0
+    effectRadiusAdd: 0.5
+    upgradeDescription: "\u0423\u0440\u043E\u043D +3, \u0440\u0430\u0434\u0438\u0443\u0441
+      +0.5"
+  - damageAdd: 4
+    cooldownReduce: -0.5
+    countAdd: 0
+    searchRadiusAdd: 0
+    effectRadiusAdd: 0
+    upgradeDescription: "\u0423\u0440\u043E\u043D +4, \u043F\u0435\u0440\u0435\u0437\u0430\u0440\u044F\u0434\u043A\u0430
+      -0.5\u0441"
+  - damageAdd: 4
+    cooldownReduce: 0
+    countAdd: 0
+    searchRadiusAdd: 0
+    effectRadiusAdd: 0.5
+    upgradeDescription: "\u0423\u0440\u043E\u043D +4, \u0440\u0430\u0434\u0438\u0443\u0441
+      +0.5"
+  - damageAdd: 4
+    cooldownReduce: -0.5
+    countAdd: 0
+    searchRadiusAdd: 0
+    effectRadiusAdd: 0
+    upgradeDescription: "\u0423\u0440\u043E\u043D +4, \u043F\u0435\u0440\u0435\u0437\u0430\u0440\u044F\u0434\u043A\u0430
+      -0.5\u0441"
+  - damageAdd: 5
+    cooldownReduce: 0
+    countAdd: 0
+    searchRadiusAdd: 0
+    effectRadiusAdd: 0.5
+    upgradeDescription: "\u0423\u0440\u043E\u043D +5, \u0440\u0430\u0434\u0438\u0443\u0441
+      +0.5"
+  - damageAdd: 5
+    cooldownReduce: -0.5
+    countAdd: 0
+    searchRadiusAdd: 0
+    effectRadiusAdd: 0
+    upgradeDescription: "\u0423\u0440\u043E\u043D +5, \u043F\u0435\u0440\u0435\u0437\u0430\u0440\u044F\u0434\u043A\u0430
+      -0.5\u0441"
+  - damageAdd: 5
+    cooldownReduce: 0
+    countAdd: 0
+    searchRadiusAdd: 0
+    effectRadiusAdd: 1
+    upgradeDescription: "\u0423\u0440\u043E\u043D +5, \u0440\u0430\u0434\u0438\u0443\u0441
+      +1"
+  - damageAdd: 7
+    cooldownReduce: -0.5
+    countAdd: 0
+    searchRadiusAdd: 0
+    effectRadiusAdd: 0
+    upgradeDescription: "\u0423\u0440\u043E\u043D +7, \u043F\u0435\u0440\u0435\u0437\u0430\u0440\u044F\u0434\u043A\u0430
+      -0.5\u0441"

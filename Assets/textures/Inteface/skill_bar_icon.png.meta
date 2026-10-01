@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 2a62eaa59c0363b43ade4225cbfc0c05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3575917268578221059
+    second: skill_bar_icon_0
+  - first:
+      213: 6870599020386312059
+    second: skill_bar_icon_1
+  - first:
+      213: -2842088542527028245
+    second: skill_bar_icon_2
+  - first:
+      213: 5512757105878184016
+    second: skill_bar_icon_3
+  - first:
+      213: 8705723804367169409
+    second: skill_bar_icon_4
+  - first:
+      213: 3557521936706142895
+    second: skill_bar_icon_5
+  - first:
+      213: 7869112594650691509
+    second: skill_bar_icon_6
+  - first:
+      213: -3243890131159742612
+    second: skill_bar_icon_7
+  - first:
+      213: -2708255951637975799
+    second: skill_bar_icon_8
+  - first:
+      213: -1606624345315997514
+    second: skill_bar_icon_9
+  - first:
+      213: -6105257174493671619
+    second: skill_bar_icon_10
+  - first:
+      213: 680520829168363381
+    second: skill_bar_icon_11
+  - first:
+      213: 5456863204202743919
+    second: skill_bar_icon_12
+  - first:
+      213: 1242155320656860518
+    second: skill_bar_icon_13
+  - first:
+      213: -3825904157764878470
+    second: skill_bar_icon_14
+  - first:
+      213: -5903597890870096059
+    second: skill_bar_icon_15
+  - first:
+      213: -2767394706760042034
+    second: skill_bar_icon_16
+  - first:
+      213: -1480150000378403727
+    second: skill_bar_icon_17
+  - first:
+      213: 718606637331042599
+    second: skill_bar_icon_18
+  - first:
+      213: -2034304201098347783
+    second: skill_bar_icon_19
+  - first:
+      213: -1584254658368194302
+    second: skill_bar_icon_20
+  - first:
+      213: -3346617790280655219
+    second: skill_bar_icon_21
+  - first:
+      213: 6390991648620814110
+    second: skill_bar_icon_22
+  - first:
+      213: -3799677076268363886
+    second: skill_bar_icon_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skill_bar_icon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c3acb4fc530a130800000000000000
+      internalID: 3575917268578221059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 223
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fd5443865495f50800000000000000
+      internalID: 6870599020386312059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be30872578fde88d0800000000000000
+      internalID: -2842088542527028245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 223
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05031e4416f318c40800000000000000
+      internalID: 5512757105878184016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 223
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187a7f7dca1f0d870800000000000000
+      internalID: 8705723804367169409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 223
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa287065a5bde5130800000000000000
+      internalID: 3557521936706142895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7f4b56634b43d60800000000000000
+      internalID: 7869112594650691509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6704d1dc136bf2d0800000000000000
+      internalID: -3243890131159742612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de7c99f875a6ad0800000000000000
+      internalID: -2708255951637975799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 127
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b802f19baf14b9e0800000000000000
+      internalID: -1606624345315997514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f46e362f4c54ba0800000000000000
+      internalID: -6105257174493671619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 127
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a5dca612b17900800000000000000
+      internalID: 680520829168363381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68876a2c2caabb40800000000000000
+      internalID: 5456863204202743919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 49
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6651d93dea50d3110800000000000000
+      internalID: 1242155320656860518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ffbb36078a7eac0800000000000000
+      internalID: -3825904157764878470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f41f13ff4321ea0800000000000000
+      internalID: -5903597890870096059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9754e2d2d3899d0800000000000000
+      internalID: -2767394706760042034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174a625ba63757be0800000000000000
+      internalID: -1480150000378403727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721da57ede009f900800000000000000
+      internalID: 718606637331042599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fab2787b13b4c3e0800000000000000
+      internalID: -2034304201098347783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b43e28c8930ae0800000000000000
+      internalID: -1584254658368194302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 47
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e9153d9dc6e81d0800000000000000
+      internalID: -3346617790280655219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f18822b0d51b850800000000000000
+      internalID: 6390991648620814110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_bar_icon_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f44d7a4d5d44bc0800000000000000
+      internalID: -3799677076268363886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skill_bar_icon_0: 3575917268578221059
+      skill_bar_icon_1: 6870599020386312059
+      skill_bar_icon_10: -6105257174493671619
+      skill_bar_icon_11: 680520829168363381
+      skill_bar_icon_12: 5456863204202743919
+      skill_bar_icon_13: 1242155320656860518
+      skill_bar_icon_14: -3825904157764878470
+      skill_bar_icon_15: -5903597890870096059
+      skill_bar_icon_16: -2767394706760042034
+      skill_bar_icon_17: -1480150000378403727
+      skill_bar_icon_18: 718606637331042599
+      skill_bar_icon_19: -2034304201098347783
+      skill_bar_icon_2: -2842088542527028245
+      skill_bar_icon_20: -1584254658368194302
+      skill_bar_icon_21: -3346617790280655219
+      skill_bar_icon_22: 6390991648620814110
+      skill_bar_icon_23: -3799677076268363886
+      skill_bar_icon_3: 5512757105878184016
+      skill_bar_icon_4: 8705723804367169409
+      skill_bar_icon_5: 3557521936706142895
+      skill_bar_icon_6: 7869112594650691509
+      skill_bar_icon_7: -3243890131159742612
+      skill_bar_icon_8: -2708255951637975799
+      skill_bar_icon_9: -1606624345315997514
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
